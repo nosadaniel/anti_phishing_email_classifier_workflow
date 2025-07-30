@@ -183,4 +183,3 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-evaluation_summary_*.json
